@@ -1,5 +1,8 @@
 # hello-world
 My first repository
 
+--------------------
 hi world,
-my name is david, i like the world, it's very beautiful.
+my name is master-david
+do you like me
+----------------------
